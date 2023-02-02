@@ -1,3 +1,4 @@
 const helloWorld=()=>{
-    console.log("Git is Awesome!”");
+    output=prompt("Enter Text to Output:")
+    console.log(output);
 }
